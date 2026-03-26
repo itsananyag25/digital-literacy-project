@@ -29,6 +29,9 @@ I created and updated my profiles on GitHub, LinkedIn, and Kaggle. This task hel
 ### 🔹 Task 3: Coding & Quiz
 I practiced coding on HackerRank and earned a 3★ badge in Problem Solving and a 4★ badge in Python by solving different types of questions, including medium-level problems. I also created a Google Form quiz based on digital literacy.
 
+Google Form Quiz  
+Link: https://forms.gle/4un8PHjLmnexheaP6
+
 ---
 
 ### 🔹 Task 4: Email & Checklist
