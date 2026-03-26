@@ -1,16 +1,27 @@
-##Social Media Do’s and Don’ts 
+# 📱 Social Media Do’s and Don’ts
 
-##Do’s 
+Using social media responsibly is an important part of digital literacy. Here are some simple guidelines to follow:
 
- Keep your profile professional  
- Use strong and unique passwords  
- Think before posting anything online  
- Respect others and be polite  
- Share useful and positive content  
-##Don’ts 
+---
 
- Don’t share personal or sensitive information  
- Don’t post offensive or inappropriate content  
- Don’t click on unknown or suspicious links  
- Don’t spread fake news or misinformation  
- Don’t use weak passwords
+## ✅ Do’s
+
+- Keep your profile professional  
+- Use strong and unique passwords  
+- Think before posting anything online  
+- Respect others and be polite  
+- Share useful and positive content  
+
+---
+
+## ❌ Don’ts
+
+- Don’t share personal or sensitive information  
+- Don’t post offensive or inappropriate content  
+- Don’t click on unknown or suspicious links  
+- Don’t spread fake news or misinformation  
+- Don’t use weak passwords  
+
+---
+
+💡 *Following these simple do’s and don’ts can help you stay safe and maintain a positive online presence.*
